@@ -1,2 +1,2 @@
 welcome to the word of git
-good luck!
+good luck to you!
